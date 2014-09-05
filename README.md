@@ -1,4 +1,0 @@
-MultiRotor
-==========
-
-A MultiRotor Project
