@@ -1,21 +1,21 @@
 #Flight Control#
--Stablisation
--Sensors
-  -Gyro
-  -Accelerometre
-  -Magnetometre
-  -GNSS
-  -Altitude
-    -Pressure
-    -Sonar
-  -ground contact switches
-    -what if they clog?
-  -Kahlman filters?
--Arborial Avoidance
--System Lags
--Autonomous Behaviours
-  -Flight zone boundarys
-  -Return to home
-  -Actions on imminant power loss.
-    -AmpHr Counter
--Failure Scinarios
+- Stablisation
+- Sensors
+  - Gyro
+  - Accelerometre
+  - Magnetometre
+  - GNSS
+  - Altitude
+    - Pressure
+    - Sonar
+  - ground contact switches
+    - what if they clog?
+  - Kahlman filters?
+- Arborial Avoidance
+- System Lags
+- Autonomous Behaviours
+  - Flight zone boundarys
+  - Return to home
+  - Actions on imminant power loss.
+    - AmpHr Counter
+- Failure Scinarios
